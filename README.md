@@ -1,6 +1,7 @@
 # obrigado-terrible-2.0
-obrigado terrible obrigado terrible
+<br>obrigado terrible obrigado terrible<br>
 ![obrigado](cachorro_chupando_et.jpg)
+<br>
 ```
 ………………………………………._¸„„„„_
 …………………….…………...„--~*'¯…….'\
